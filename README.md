@@ -13,13 +13,13 @@ This repository contains end-to-end UI tests for [saucedemo.com](https://www.sau
 
 ## Folder Structure
 saucedemo-playwright/
-├── pages/ # Page object classes (LoginPage, InventoryPage, CartPage)
-├── tests/ # Test specs (e.g., cart-flow.spec.ts)
-├── .env # Stores BASE_URL, USERNAME, PASSWORD
-├── .gitignore
-├── package.json
-├── playwright.config.ts
-└── tsconfig.json
+pages/ # Page object classes (LoginPage, InventoryPage, CartPage)
+tests/ # Test specs (e.g., cart-flow.spec.ts)
+.env # Stores BASE_URL, USERNAME, PASSWORD
+.gitignore
+package.json
+playwright.config.ts
+tsconfig.json
 
 
 ## Setup Instructions
